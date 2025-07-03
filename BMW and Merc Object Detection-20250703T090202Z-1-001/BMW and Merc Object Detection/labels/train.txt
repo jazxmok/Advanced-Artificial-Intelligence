@@ -1,0 +1,6 @@
+data/obj_train_data/BMW1.jpg
+data/obj_train_data/BMW2.jpg
+data/obj_train_data/BMW3.jpg
+data/obj_train_data/Merc1.jpg
+data/obj_train_data/Merc2.jpg
+data/obj_train_data/Merc3.jpg

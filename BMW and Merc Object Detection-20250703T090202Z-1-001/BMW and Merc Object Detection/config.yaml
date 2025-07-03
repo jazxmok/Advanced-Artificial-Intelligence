@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/BMW and Merc Object Detection'
+
+train: '/content/drive/MyDrive/BMW and Merc Object Detection/images/train'
+val: '/content/drive/MyDrive/BMW and Merc Object Detection/images/val'
+
+names:
+  0: BMW
+  1: Mercedes
